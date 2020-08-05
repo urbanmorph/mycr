@@ -67,8 +67,9 @@ header.masthead h1 {
 }
 
 .features-icons {
-  padding-top: 7rem;
-  padding-bottom: 7rem;
+  text-align: justify;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .features-icons .features-icons-item {
@@ -143,9 +144,9 @@ footer.footer {
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
-  background: #0563bb;
+  background: #fff;
   padding: 12px;
-  color: #ff0;
+  color: #fff;
   border-radius: 50px;
 }
 
