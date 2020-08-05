@@ -34,7 +34,7 @@ header.masthead .overlay {
   width: 100%;
   top: 0;
   left: 0;
-  opacity: 0.3;
+  opacity: 0.7;
 }
 
 header.masthead h1 {
@@ -118,7 +118,7 @@ header.masthead h1 {
   width: 100%;
   top: 0;
   left: 0;
-  opacity: 0.3;
+  opacity: 0.7;
 }
 
 footer.footer {
@@ -211,4 +211,6 @@ section {
 .section-title p {
   margin-bottom: 0;
 }
+
+
 
