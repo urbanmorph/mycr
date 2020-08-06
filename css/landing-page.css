@@ -143,10 +143,10 @@ footer.footer {
   top: -25px;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 24px;
+  font-size: 30px;
   background: #FFC300;
   padding: 12px;
-  color: #fff;
+  color: #011426;
   border-radius: 50px;
 }
 
